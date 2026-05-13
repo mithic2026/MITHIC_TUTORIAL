@@ -1,6 +1,6 @@
 # MITHIC Workshop Notebooks
 
-This repository contains a set of self-contained Jupyter notebooks that introduce how to compute **multivariate information measures** from data using six different Python libraries. Each notebook is a minimal, runnable example — just enough to install the library, load some data, and compute the core measures it provides.
+This repository contains a set of self-contained Jupyter notebooks that introduce how to compute **multivariate information measures** from data using six different Python libraries. Each notebook is a minimal, runnable example; just enough to install the library, load some data, and compute the core measures it provides.
 
 ---
 
